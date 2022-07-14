@@ -1,16 +1,18 @@
-html,
-body {
+
+.body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+ font-family: "poppins";
+ background: linear-gradient(180deg, #f5536f 0%, #fb506e 100%);
+ width: 100%;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
 
 * {
   box-sizing: border-box;
 }
+
+
+
+
+
