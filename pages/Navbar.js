@@ -1,6 +1,12 @@
 import React from 'react'
 import Box from '@mui/material/Box';
 
+import React from 'react'
+
+
+
+
+
 const Navbar = () => {
   return (
     <div>
@@ -19,7 +25,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+  <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -27,7 +37,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -35,7 +49,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -43,7 +61,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -51,7 +73,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -60,7 +86,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -68,7 +98,11 @@ const Navbar = () => {
         <Box >
   <span></span>
   <Box className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
         </li>
@@ -76,7 +110,11 @@ const Navbar = () => {
             <button className="dropdown" style={{border:'0.5px white solid',width:'170px',height:'30px',borderRadius:'20px',margin:'-9% 0 0 0',fontSize:"10px",background:'linear-gradient(180deg, #f5536f 0%, #fb506e 100%)'}}><p >START FOR FREE</p>
       <Box >
   <span></span><Box  className="dropdown-content">
-  <p>Hello World!</p>
+   <ul>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+    <li>For personal websites</li>
+  </ul>
   </Box>
    </Box>
    
